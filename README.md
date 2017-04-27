@@ -1,1 +1,5 @@
-# Unit-7-practice-problems
+Unit 7 practice problems
+
+Colin Edwards
+
+unlicense.org
